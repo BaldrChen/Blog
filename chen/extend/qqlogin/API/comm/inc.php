@@ -1,0 +1,2 @@
+<?php die('forbidden'); ?>
+{"appid":"101537871","appkey":"4da32a11840ff326a9c826144c7561e2","callback":"http://www.baldr.cn/callback","scope":"get_user_info","errorReport":true,"storageType":"file","host":"localhost","user":"root","password":"root","database":"test"}
